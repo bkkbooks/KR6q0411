@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0411_000.yaml, hash: 'sha256:3b2ff0f0a38ebaabed00863bde15827b4c6daf5cefe4d49c2746aad7fb553e14'}
+  - {seq: 0, filename: KR6q0411_000.yaml, hash: 'sha256:4eeebc5daee4816288007d81c3b09f10d320b2a2c6165f5e5ccc34341db686af'}
   - {seq: 1, filename: KR6q0411_001.yaml, hash: 'sha256:0e1aa3580fd32b4ace9f1ca61cb7e99385b0572b46963c0b721f1cd0890956bf'}
   - {seq: 2, filename: KR6q0411_002.yaml, hash: 'sha256:e90c95c29008c27215a8e4cc2fde19d40fb5d63cc1fb03ceb470590561de9e44'}
   - {seq: 3, filename: KR6q0411_003.yaml, hash: 'sha256:236f92f328646a101e91713a02b586823c02bf9d590c6bd4daca6d97f4ed9b1a'}
@@ -34,7 +34,7 @@ assets:
   - {seq: 10, filename: KR6q0411_010.yaml, hash: 'sha256:ae51be3dc034975817de73217cbdffeac7a353b67eba98b98e968707a5950107'}
   - {seq: 11, filename: KR6q0411_011.yaml, hash: 'sha256:6aa3c04311d9b00287eeea749062ea327acb425f79f80c67180d71897f8d199c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0411_000.markers.yaml, hash: 'sha256:8deb469b88bb11935b38097d47f41cd94f6ced9c68dcdf2fec23707f651a71f6'}
+  - {seq: 0, role: markers, filename: assets/KR6q0411_000.markers.yaml, hash: 'sha256:767d8db9b0a98585b33fcc5b8f85723cd04dee68fd73c4417ca964283ddfa91b'}
   - {seq: 1, role: markers, filename: assets/KR6q0411_001.markers.yaml, hash: 'sha256:4501ac34e77c70b347b5d346fa49679db021cab46ff1cc4ad779e27ef67a89dd'}
   - {seq: 2, role: markers, filename: assets/KR6q0411_002.markers.yaml, hash: 'sha256:310f5ba9040cb749dd7c4446e4e7b51398bb68c872d9be277c44b471ddb08fa5'}
   - {seq: 3, role: markers, filename: assets/KR6q0411_003.markers.yaml, hash: 'sha256:760464873fb182d6283e1255e392c5724be92e5c9a489f0bf1fa36f47663419c'}
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0411_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 顯聖三宜禪師語錄序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0411_J_000-mulu-2
     span:
-    - front
+    - body
     - 720
     - 720
   label: 三宜大師語錄引
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0411_J_000-mulu-3
     span:
-    - front
+    - body
     - 720
     - 720
   label: 三宜禪師語錄目次
@@ -1297,7 +1297,7 @@ table_of_contents:
   label: 雲門顯聖愚菴盂禪師塔銘
   type: mulu
   level: 1
-hash: sha256:568c9360dcf6dd98280bfb06be2d5332ae082a10ec1576ababcebbfeb87a434f
+hash: sha256:54c9b9c41ab8a7724c8c9aaaa5ee695c9515f1397db09f876a031d3b746f1fc5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
